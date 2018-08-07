@@ -5,7 +5,7 @@ Monturas Terrestres:
 - Tormento de Guerra = 100%
 - Rechinador dientebilis [Azul][Gris][Rojo] = 100%
 - Caballo Espectral = 100% (Añadiendo)
-- Tigre de Shadopan [Azul][Verde][Rojo][Morado] = 100% (Añadiendo)
+- Tigre de Shadopan [Azul][Verde][Rojo][Morado] = 100%
 
 Monturas Voladoras:
 - Sable Vil 2 = 310%
