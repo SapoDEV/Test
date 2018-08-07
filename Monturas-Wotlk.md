@@ -12,3 +12,4 @@ Monturas Voladoras:
 - Tormento de Guerra = 310%
 - Destructor de Estirpe Vil [Sangre][Escarcha][Profano] = 310%
 - Grifo Espectral = 310% (Añadiendo)
+- Dragón Nimbo Astral = 310% (Añadiendo)
