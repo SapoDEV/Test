@@ -29,5 +29,5 @@ Mascotas Agregadas:
 * 
 *  
 
-World of Warcraft- Reino EterWow 3.3.5a 12340  
-[Servidor Chileno]
+World of Warcraft- Reino EterWow 3.3.5a 12340  [Servidor Chileno]
+-
