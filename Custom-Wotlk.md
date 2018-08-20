@@ -29,6 +29,16 @@ Monturas Agregadas:
 * Guardián alado
 * Draco Crepuscular de Gladiador sañoso
 * Draco Crepuscular de Gladiador implacable
+* Hipogrifo corrupto
+* Destrero de Tyrael
+* Jinete del viento espectral
+* Riendas del draco llameante
+* Riendas del presagista Crepuscular
+* Fámula de la Protectora
+* Experimento 12-B
+* Corazón de los Aspectos
+* Draco vil
+* Riendas del dragón nimbo de jade
 * 
 
 Mascotas Agregadas:
