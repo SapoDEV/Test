@@ -1,4 +1,4 @@
-Custom - Patch-E.MPQ
+CUSTOM - Patch-E.MPQ (Items, Monturas, Mascotas, Hechizos) y CUSTOM - Patch-H.MPQ (Solo PJ HD)
 -
 Tier Transmog Agregados:
 -
