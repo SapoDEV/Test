@@ -11,13 +11,25 @@ Tier Transmog Agregados:
 
 Monturas Agregadas:
 -
+* Riendas del draco de piedra volcánico
+* Riendas del draco de piedra fosforescente
+* Riendas del draco de piedra vítreo
+* Riendas del draco del Viento del Este
+* Riendas del draco del Viento del Oeste
+* Riendas del draco del Viento del Norte
+* Riendas del draco del Viento del Sur 
+* Riendas del fénix oscuro
+* Draco de arenisca
+* Draco jaspeado
+* Dracohalcón Amani
+* Hipogrifo guardallamas
+* Halcón de fuego purasangre
+* Halcón de fuego vil
+* Halcón de fuego corrupto
+* Guardián alado
+* Draco Crepuscular de Gladiador sañoso
+* Draco Crepuscular de Gladiador implacable
 * 
-* 
-* 
-* 
-* 
-* 
-*  
 
 Mascotas Agregadas:
 -
