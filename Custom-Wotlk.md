@@ -51,5 +51,10 @@ Mascotas Agregadas:
 * 
 *  
 
+Bugs y Fixes:
+-
+*
+
+
 World of Warcraft- Reino EterWow 3.3.5a 12340  [Servidor Chileno]
 -
